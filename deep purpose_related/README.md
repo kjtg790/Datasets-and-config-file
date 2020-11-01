@@ -9,7 +9,7 @@ Setup DeepPurpose Tool Kit, Working directory, copy files, execute scripts
 3) Create a new directory called all_protein_seq under the data directory <br>
 4) Create a new directory called virtual_screening_results under the home/working directory <br>
 5) Create a new directory called repurposing_results under the home/working directory <br>
-6) Copy the content of all_protein_seq into data/all_protein_seq under home/working directory <br>
+6) Copy the content of all protein sequence files into data/all_protein_seq under home/working directory <br>
 7) Copy viral_drugs.csv file into data directory under home/working directory <br>
 8) Copy the dataset.py file into deeppurpose/dataset directory <br>
 9) Copy the models.py file into deeppurpose/dataset directory <br>
