@@ -1,0 +1,518 @@
+Stem,Definition,Examples
+-abine,"(see -arabine, -citabine)",decitabine
+-ac,Anti-inflammatory agents (acetic acid derivatives),bromfenac; dexpemedolac
+-acetam,See -racetam,
+-actide,Synthetic corticotropins,seractide
+"-adol, -aldol-",Analgesics (mixed opiate receptor agonists/ antagonists),tazadolene; spiradolene; levonantradol
+-adox,Antibacterials (quinoline dioxide derivatives),carbadox
+-afenone,Antiarrhythmics (propafenone derivatives),alprafenone; diprafenone
+-afil,PDE5 inhibitors,tadalafil
+-aj-,Antiarrhythmics (ajmaline derivatives),lorajmine
+-aldrate,Antacid aluminum salts,magaldrate
+-algron,Alpha1 - and alpha2 - adrenoreceptor agonists,dabuzalgron
+-alol,Combined alpha and beta blockers,labetalol; medroxalol
+-amivir,(see -vir),
+-ampa,Ionotropic non-NMDA glutamate receptors (AMPA and/or KA receptors),
+subgroups:,,
+-ampanel,Ionotropic non-NMDA glutamate receptors (AMPA and/or KA receptors); antagonists,becampanel
+-ampator,Ionotropic non-NMDA glutamate receptors (AMPA and/or KA receptors); modulators,forampator
+-andr-,Androgens,nandrolone
+-anib,Angiogenesis inhibitors,semaxanib
+-anserin,Serotonin 5-HT2 receptor antagonists,altanserin; tropanserin; adatanserin
+-antel,Anthelmintics (undefined group),carbantel
+-antrone,Antineoplastics; anthraquinone derivatives,pixantrone
+-apsel,P-selectin antagonists,torapsel
+-arabine,Antineoplastics (arabinofuranosyl derivatives),fazarabine; fludarabine
+"aril-, -aril, -aril-",Antiviral (arildone derivatives),pleconaril; arildone; fosarilate
+-arit,Antirheumatics (lobenzarit type),lobenzarit; clobuzarit
+-arol,Anticoagulants (dicumarol type),dicumarol
+-arone,Antiarrhythmics,amiodarone; dronedarone
+-arot-,Arotinoids,etarotene; sumarotene; tazarotene
+subgroup:,,
+-arotene,Arotinoid derivatives,bexarotene; linarotene; tazarotene
+arte-,Antimalarials (artemisin derivatives),arteflene
+-ase,Enzymes,alglucerase; dornase alfa
+subgroups:,,
+-dismase,Enzymes; superoxide dismutase activity (exception: orgotein),sudismase
+-teplase,Enzymes; tissue-type plasminogen activators,alteplase; duteplase; silteplase
+-uplase,Enzymes; urokinase-type plasminogen activators,saruplase; nasaruplase
+-ast,Antiasthmatics/antiallergics (not acting primarily as antihistamines; leukotriene biosynthesis inhibitors),
+subgroups:,,
+-lukast,Antiasthmatics/antiallergics; leukotriene receptor antagonists,cinalukast; pobilukast
+-milast,Antiasthmatics/antiallergics; type IV phosphodiesterase inhibitors,piclamilast
+-trodast,Antiasthmatics/antiallergics; thromboxane A2 receptor antagonists,seratrodast
+-zolast,Antiasthmatics/antiallergics; benzoxazole derivatives,eclazolast; ontazolast
+-tegr-,Antiasthmatics/antiallergics; integrin antagonists,valategrast
+-astine,Antihistaminics (histamine-H1 receptor antagonists),ebastine
+-(a)tadine,"Tricyclic histaminic-H1 receptor antagonists, loratadine derivatives",desloratadine; rupatadine; somantadine
+-atadine,Tricyclic antiasthmatics,olopatadine; loratadine
+-axine,"Antianxiety, antidepressant inhibitor of norepinephrine and dopamine re-uptake",
+subgroup:,,
+-(f)axine,,radafaxine
+-azenil,Benzodiazepine receptor agonists/antagonists,bretazenil; flumazenil
+-azepam,Antianxiety agents (diazepam type),lorazepam
+-azepide,Cholecystokinin receptor antagonists,devazepide
+-azocine,"Narcotic antagonists/agonists (6,7-benzomorphan derivatives)",quadazocine; ketazocine
+-azoline,Antihistamines/local vasoconstrictors (antazoline type),antazoline
+-azosin,Antihypertensives (prazosin type),doxazosin
+-bactam,Beta-lactamase inhibitors,sulbactam
+-bamate,Tranquilizers/antiepileptics (propanediol and pentanediol groups),meprobamate; felbamate
+"-barb, -barb-",Barbituric acid derivatives,phenobarbital; secobarbital; eterobarb
+-begron,Beta 3 adrenoreceptor agonist,talibegron
+-bendazole,Anthelmintics (tibendazole type),cambendazole
+-berel,Beta estrogen receptor agonist,prinaberel
+-bersat,Anticonvulsants; antimigraine (benzoylamino-benzpyran derivatives),carabersat; tidembersat
+"bol-, -bol-",Anabolic steroids,bolandiol; mibolerone
+-bufen,"Non-steroidal anti-inflammatory agents, fenbufen derivatives",indobufen
+-bulin,Antineoplastics (mitotic inhibitors; tubulin binders),mivobulin
+-butan,Antiseptics (dapabutan type),dapabutan; lopobutan
+-butazone,Anti-inflammatory analgesics (phenylbutazone type),mofebutazone
+-caine,Local anesthetics,dibucaine
+"calci-, -calci-",Vitamin D analogues,calcipotriene; tacalcitol
+-camra,"Antivirals (intracellular adhesion molecules, icam-1 derivatives)",tremacamra
+-camsule,Camphorsulfonic acid derivatives used as UVA sunscreens,ecamsule
+-casan,Caspase (interleukin �1b) converting enzyme inhibitors,pralnacasan
+-caserin,"Serotonin receptor agonists, primarily 5-HT2",lorcaserin; vabicaserin
+-castat,(see -stat),
+-carbef,Antibiotics (carbacephem derivatives),loracarbef
+-catib,Cathespin inhibitors,balicatib
+-cavir,(see -vir),
+cef-,Cephalosporins,cefazolin
+-cept,"Receptor molecules, native or modified ( a preceding infix should designate the target)",alvircept
+subgroups:,,
+-co-,"Receptor molecules, native or modified;complement receptors",mirococept
+-facept,"Receptor molecules, native or modified;lymphocyte function-associated with antigen 3 (LFA) receptor",alefacept
+-farcept,"Receptor molecules, native or modified; interferon receptors",pifarcept
+-lefacept,"Receptor molecules, native or modified; lymphocyte function-associated antigen 3",alefacept
+-nercept,"Receptor molecules, native or modified; tumor necrosis factor receptors",lenercept
+-vircept,"Receptor molecules, native or modified; antiviral receptors",alvircept
+-cet,Receptors (small molecule),
+subgroup:,,
+-calcet,Receptors (small molecule); calcium,tecalcet
+-cetrapib,Cholesterol ester transfer protein inhibitors,torcetrapib
+-cic,Hepatoprotectives (timonacic type),limazocic
+-ciclib,Cyclin dependent kinase inhibitors,seliciclib
+-ciclovir,(see -vir),
+-cidib,Cyclin dependent kinase inhibitor,alvocidib
+-cidin,Natural antibiotics (undefined group),gramicidin
+-ciguat,Guanaline cyclase activator,ataciguat; atriciguat
+-cillin,Penicillins,ampicillin
+-citabine,"Nucleoside antiviral or antineoplastic agents, cytarabine or azarabine derivatives",gemcitabine; fiacitabine; zalcitabine
+-clidine,Muscarinic agonists (various indications),vedaclidine; talsaclidine
+-clone,Hypnotics/tranquilizers (zopiclone type),pagoclone
+-cog,Blood coagulation factors,
+subgroups:,,
+-eptacog,Blood coagulation factors; blood coagulation factor VII,eptacog alfa (activated)
+-nonacog,Blood coagulation factors; blood coagulation factor IX,nonacog alfa
+-octocog,Blood coagulation factors; blood coagulation factor VIII,moroctocog alfa; octocog alfa
+-cogin,Blood coagulation cascade inhibitor,tifacogin
+-conazole,Systemic antifungals (miconazole type),fluconazole; oxiconazole
+-cort-,Cortisone derivatives,hydrocortisone
+-coxib,Cyclooxygenase-2 inhibitors,celecoxib; parecoxib; valdecoxib
+-cridar,(see -dar),
+-crinat,Diuretics (ethacrynic acid derivatives),brocrinat
+-crine,Acridine derivatives,amsacrine; quinacrine
+-cromil,Antiallergics (cromoglicic acid derivatives),nedocromil
+-curium (also -curonium),Neuromuscular blocking agents (quaternary ammonium compounds),atracurium; alcuronium; pipecuronium
+-cycline,Antibiotics (tetracycline derivatives),minocycline
+-dan,Positive inotropic agents (pimobendan type),prinoxodan; indolidan
+-dapsone,Antimycobacterials (diaminodiphenylsulfone derivatives),acedapsone
+-dar,Multidrug resistance inhibitors,
+subgroups:,,
+-cridar,Multidrug resistance inhibitors;acridine carboxamide derivatives,elacridar
+-icodar,Multidrug resistance inhibitors;pipecolic acid derivatives,biricodar
+-quidar,Multidrug resistance inhibitors; quinoline derivatives,lamiquidar; zozuquidar
+-spodar,Multidrug resistance inhibitors; ciclosporin D derivatives,valspodar
+-denoson,Adenosine A receptor agonists,tecadenoson; binodenoson
+-dermin,(see -ermin),
+"dil-, -dil-, -dil",Vasodilators (undefined group),fostedil
+-dipine,Phenylpyridine vasodilators (nifedipine type),darodipine; felodipine
+-dismase,(see -ase),
+-distim,(see -stim),
+-ditan,Antimigraine (5-HT1 receptor agonists),alniditan
+-dopa,Dopamine receptor agonists,levodopa
+-dore,Dopamine D2D3 receptor modulators,aplindore fumarate
+-dotin,Synthetic analogs of the dolastatin series,tasidotin HCl
+-dralazine,Antihypertensives (hydrazine-phthalazines),hydralazine; endralazine
+-dronate,Calcium metabolism regulators,etidronate; tiludronate
+-dutant,(see -tant),
+-ectedin,Ecteinascodin derivatives,monectedin
+-ectin,Antiparasitics (ivermectin type),doramectin; moxidectin
+-elestat,(see -stat),
+-elvakin,(see -kin),
+-emcinal,Erythromycin derivatives lacking antibiotic activity,mitemcinal
+-entan,Endothelin receptor antagonists,bosentan
+-eptacog,(see -cog),
+-eptakin,(see -kin),
+-erg-,Ergot alkaloid derivatives,pergolide
+-eridine,Analgesics (meperidine type),anileridine
+-ermin,Growth factors,
+subgroups:,,
+-bermin,Growth factors; vascular endothelial growth factors,telbermin
+-dermin,Growth factors; epidermal growth factors,murodermin
+-fermin,Growth factors; fibroblast growth factors,ersofermin
+-nermin,Growth factors; tumor necrosis factors,sonermin; tasonermin
+-plermin,Growth factors; platelet derived growth factors,becaplermin
+-sermin,Growth factors; insulin-like growth factors,mecasermin
+-termin,Growth factors; transforming growth factors,cetermin
+sub subgroups:,,
+-otermin,Growth factors; bone morphogenetic proteins,dibotermin alfa
+"estr-, -estr-",Estrogens,estrone; fenestrel
+subgroups:,,
+-estrant,Estrogen antagonists,fulvestrant
+-etanide,Diuretics (piretanide type),bumetanide
+-exakin,(see -kin),
+-ezolid,Oxazolidinone antibacterials,eperezolid; linezolid
+-farnib,Farnesyl transferase inhibitor,tipifarnib
+-fenamate,"fenamic acid ester, salt derivatives",etofenamate
+-fenamic acid,Anti-inflammatory agents (anthranilic acid derivatives),flufenamic acid
+-fenin,Diagnostic aids ((phenylcarbamoyl)methyl iminodiacetic acid derivatives),arclofenin
+-fenine,Analgesics (fenamic acid subgroup),floctafenine
+-fentanil,Narcotic analgesics (fentanyl derivatives),alfentanil; mirfentanil; brifentanil
+-fentrine,Phosphodiesterase inhibitor,pumafentrine
+-fermin,(see -ermin),
+-fetamin(e),Amfetamine derivatives,levmetamfetamine
+-fiban,Fibrinogen receptor antagonists (glycoprotein IIb/IIIa receptor antagonists),lamifiban; tirofiban
+-fibatide,(see -tide),
+-fibrate,Antihyperlipidemics (clofibrate type),bezafibrate
+-filcon,Hydrophilic contact lens materials,alphafilcon A; xylofilcon A; mipafilcon A
+-fingol,Sphingosine derivatives,cedefingol; safingol
+-flapon,5-lipoxygenase-activating protein (FLAP) inhibitors,quiflapon
+-flurane,General inhalation anesthetics (halogenated alkane derivatives),enflurane
+-fo-,Phosphoro-derivatives,adefovir
+-focon,Hydrophobic contact lens materials,trifocon A; pasifocon B; satafocon A
+-formin,Hypoglycemics (phenformin type),buformin
+-fradil,Calcium channel blockers acting as vasodilators,mibefradil
+-fulven,"Antineoplastic, acylfulven derivatives",viridofulven
+-fungin,Antifungal antibiotics (undefined group),kalafungin
+-fylline,Theophylline derivatives,enprofylline; bamifylline; cipamfylline
+-gab-,Gabamimetics,fengabine
+gado-,Gadolinium derivatives (principally for diagnostic use),gadodiamide; gadoteridol; gadobenate
+-gapil,Neuronal apoptosis inhibitors; GAPDH,omigapil
+-ganan,"Antimicrobial, bactericidal permeability increasing polypeptide",iseganan; pexiganan
+-gatran,Thrombin inhibitors (argatroban type),efegatran
+-gest-,Progestins,megestrol
+-giline,"MAO inhibitors, type B",selegiline
+-gillin,Antibiotics (Aspergillus strains),mitogillin
+gli-,Antihyperglycemics,gliflumide
+-gliptin,Antihyperglycemics; dipeptidyl aminopeptidase-IV inhibitors,vildagliptin
+-glitazar,Antihyperglycemics; PPAR agonists (not thiazolidene derivatives),farglitizar
+-glitazone,Antihyperglycemics; PPST agonists (thiazolidene derivatives),ciglitazone; rosiglitazone
+-glumide,"CCK antagonists, antiulcer, anxiolytic agent",amiglumide; itriglumide
+-golix,GnRH receptor antagonists (nonpeptide),rupugolix
+-gosivir,(see -vir),
+-gramostim,(see -stim),
+-grastim,(see -stim),
+"-grel-, -grel",Platelet aggregation inhibitors (undefined group),itazigrel; dimetagrel; furegrelate
+guan-,Antihypertensives (guanidine derivatives),guanoctine
+-ibat,Ileal bile acid transport inhibitor,barixibat
+-icam,Anti-inflammatory agents (isoxicam type),enolicam; tenoxicam
+-icodar,(see -dar),
+-ifen(e),Antiestrogens of the clomifene and tamoxifen groups,nitromifene; raloxifene; droloxifene
+-ilide,Class III antiarrhythmic agents,ibutilide; risotilide; dofetilide
+-imepodib,Inosine monophosphate dehydrogenase inhibitors,merimepodib
+-imex,Immunostimulants,forfenimex; roquinimex; ubenimex
+-imibe-,"Antihyperlipidaemics, acyl CoA: cholesterol acyltransferase (ACAT) inhibitors",eldacimibe; avasimibe; pactimibe
+-imod,Immunomodulators,ivarimod; pidotimod
+subgroup:,,
+-mapimod,Immunomodulators; mitogen-activated protein (MAP) kinase inhibitors,dormapimod
+-imus,Immunosuppressives,tacrolimus; napirimus; gusperimus; sirolimus
+io-,Iodine-containing contrast media,iodamide
+-irudin,Anticoagulants (hirudin type),desirudin
+-isant,Histamine H3 receptor antagonists,cipralisant
+-isomide,Antiarrhythmics (disopyramide derivatives),bidisomide
+-ium (also -onium),Quaternary ammonium derivatives,clidinium; disiquonium; polixetonium
+-ixafor,CXCR4 antagonists,plerixifor
+-kacin,Antibiotics obtained from Streptomyces kanamyceticus (related to kanamycin),amikacin
+-kalant,Potassium channel antagonists,almokalant; terikalant
+-kalim,Potassium channel agonists,cromakalim; aprikalim
+-kalner,Opener of large conductance calcium-activated (maxi-k) K+ channels,flindokalner
+-kef-,Enkephalin agonists (various indications),metkephamide; casokefamide
+-kin,Interleukin type substances,
+subgroups:,,
+-decakin,Interleukin type substances; interleukin-10 analogues and derivatives,ilodecakin
+-dodekin,Interleukin type substances; interleukin-12 analogues and derivatives,edodekin alfa
+-elvekin,Interleukin type substances; interleukin 11 analogues and derivatives,oprelvekin
+-eptakin,Interleukin type substances; interleukin 7 analogues and derivatives,
+-exakin,Interleukin type substances; interleukin 6 analogues and derivatives,atexakin alfa
+-leukin,Interleukin type substances; interleukin 2 analogues and derivatives,teceleukin; aldesleukin
+-nakin,Interleukin 1 analogues and derivatives,
+sub subgroups:,,
+-onakin,Interleukin 1 analogues and derivatives; interleukin 1-a analogues and derivatives,pitonakin
+-benakin,Interleukin 1 analogues and derivatives; iinterleukin 1-b analogues and derivatives,mobenakin
+-nonakin,Interleukin 1 analogues and derivatives; iinterleukin 9 analogues and derivatives,
+-octakin,Interleukin 1 analogues and derivatives; iinterleukin 8 analogues and derivatives,emoctakin
+-penkin,Interleukin 1 analogues and derivatives; iinterleukin 5 analogues and derivatives,
+-trakin,Interleukin 1 analogues and derivatives; iinterleukin 4 analogues and derivatives,binetrakin
+-kinra,Interleukin receptor antagonists,
+subgroup:,,
+-nakinra,Interleukin receptor antagonists; interleukin 1 (IL-1) receptor antagonists,anakinra
+-kiren,Renin inhibitors,ditekiren; terlakiren; zankiren
+-lazad,Lipid peroxidation inhibitors,tirilazad
+-leptin,Leptin derivatives,metreleptin
+-leukin,(see -kin),
+-lind,Pro-apoptotic cGMP phosphodiesterase inhibitors,ractalind; dractalind
+subgroup:,,
+-sulind,"Pro-apoptotic cGMP phosphodiesterase inhibitors; antineoplastics, sulindac metabolites",exisulind
+-lipim,Lipoprotein lipase activators,ibrolipim
+-locib,"Antineoplastics that inhibit the formation of 5-LO, LTB4, LTC4, and thromboxane B2 (TxB2); and Activate PPARg nuclear receptors",etalocib
+-lubant,Leukotriene receptor antagonists (treatment of inflammatory skin disorders),ticolubant
+-lukast,(see -ast),
+-lutamide,Antiandrogens,bicalutamide; flutamide
+-lutril,Neutral endopeptidase inhibitors possessing additional endothelin converting enzyme inhibitory activity,daglutril
+-mab,Monoclonal antibodies,imciromab; abciximab; capromab; dacliximab; detumomab; enlimomab
+subgroups:,,
+-axo-,Monoclonal antibodies; rat-murine hybrid antibodies,
+-les-,Monoclonal antibodies; infix for inflammatory/infectious lesions,
+-toxa-,Monoclonal antibodies; toxin as a target,urtoxazumab
+"-mantadine, -mantine",Antivirals/antiparkinsonians (adamantane derivatives),rimantadine; dopamantine
+-mastat,(see -stat),
+-meline,Cholinergic agonists (arecoline derivatives used in treatment of Alzheimer's disease),xanomeline
+-melteon,Selective melatonin receptor agonist,ramelteon
+-mer,Polymers,cadexomer; carbetimer
+-mesine,Sigma receptor ligands,igmesine; panamesine
+-mestane,Antineoplastics (aromatase inhibitors),plomestane
+-metacin,Anti-inflammatory agents (indomethacin type),zidometacin
+-micin,Antibiotics (Micromonospora strains),maduramicin; gentamicin
+-monam,Monobactam antibiotics,gloximonam; oximonam; tigemonam
+-morelin,(see -relin),
+-moren,Non-peptidic growth hormone secretagogues,ibutamoren
+-mostim,(see -stim),
+-motine,Antivirals (quinoline derivatives),famotine
+-moxin,Monoamine oxidase inhibitors (hydrazine derivatives),benmoxin; domoxin
+-mulin,"Antibacterials, pleuromulin derivatives",retapamulin
+-multin,Mucosal tolerance inductors,ismomultin
+-mustine,Antineoplastics (chloroethylamine derivatives),carmustine
+-mycin,Antibiotics (Streptomyces strains),lincomycin
+"nab-, -nab-",Cannabinol derivatives,nabazenil; dronabinol
+-nakalant,Mixed sodium/potassium channel blockers,vernakalant
+-nakin,(see -kin),
+nal-,Narcotic agonists/antagonists (normorphine type),nalmefene
+-navir,(see -vir),
+-nercept,(see -cept),
+-nermin,(see -ermin),
+-nertant,Neurotensin receptor antagonists,reminertant
+-nesib,Kinesin inhibitors,ispinesib
+-netant,(see -tant),
+-neurin,Neurotensin receptor antagonists; neurotropins,abrineurin
+-nicline,Nicotinic acetylcholine receptor partial agonists/agonists nonsteroidal anti-inflammatory agents (tenidap,altinicline
+-nidap,Nonsteroidal anti-inflammatory agents (tenidap type),ilonidap; tenidap
+-nidazole,Antiprotozoal substances (metronidazole type),tinidazole
+nifur-,5-nitrofuran derivatives,nifuratel; nifuratrone
+-nil,Benzodiazepine receptor antagonists/agonists,
+subgroups:,,
+-punil,"Mitochondrial benzodiazepine receptor (MBR) selective, partial, or inverse agonists (purine derivatives)",emapunil
+-quinil,"Benzodiazepine receptor agonists, also partial or inverse (quinoline derivatives)",lirequinil
+-nixin,Anti-inflammatory agents (anilinonicotinic acid derivatives),clonixin
+-nonacog,(see -cog),
+-nonakin,(see -kin),
+-octacog,(see -cog),
+-octakin,(see -kin),
+-olol,Beta-blockers (propranolol type),timolol; atenolol
+-olone,Steroids (not prednisolone derivatives),minaxolone
+-onide,Topical steroids (acetal derivatives),amcinonide
+-opilone,Epothilone,filopilone
+-orex,Anorexiants,fludorex
+-orphan,Narcotic antagonists/agonists dextro-(morphinan derivatives),methorphan; dextrorphan
+-osuran,Urotensin receptor antagonists,palosuran
+-otilate,"Hepatoprotectants, di-isopropyl-1,3-dithiol- malonate derivatives",mivotilate
+-oxacin,Antibacterials (quinolone derivatives),difloxacin; ciprofloxacin
+-oxan,Alpha-adrenoceptor antagonists (benzodioxane derivatives),imiloxan
+-oxanide,Antiparasitics (salicylanilide derivatives),bromoxanide
+-oxef,Antibiotics (oxacefalosporanic acid derivatives),flomoxef
+-oxetine,Antidepressants (fluoxetine type),dapoxetine; seproxetine
+-pafant,Platelet-activating factor antagonists,apafant; dacopafant; tulopafant; lexipafant
+-pamide,Diuretics (sulfamoylbenzoic acid derivatives),alipamide
+-pamil,Coronary vasodilators (verapamil type),tiapamil
+-pamine,Dopaminergics (butopamine type),fosopamine; ibopamine
+-panel,AMPA receptor antagonists,fanapanel; irumpanel; talampanel
+-parcil,Antithrombotics,beciparcil; iliparcil
+-parcin,Glycopeptide antibiotics,avoparcin
+-parin,Heparin derivatives and low molecular weight (or depolymerized) heparins,heparin; tinzaparin; dalteparin
+-parinux,Antithrombotyic indirect selective synthetic factor Xa inhibitors,fondaparinux
+-paroid,Antithrombotics (heparinoid type),danaparoid; sulparoid
+peg-,PEGylated compounds,pegcaristim; pegnartograstim; pegvisomant
+-penem,Antibacterial antibiotics (carbapenem derivatives),imipenem
+-penkin,(see -kin),
+perflu-,Blood substitutes and/or diagnostics (perfluorochemicals),perflubron; perflunafene
+-peridol,Antipsychotics (haloperidol type),haloperidol
+-peridone,Antipsychotics (risperidone type),risperidone; iloperidone; ocaperidone
+-perone,Antianxiety agents/neuroleptics (4'-fluoro-4-piperidinobutyrophenone derivatives),duoperone
+-pezil,Acetylcholinesterase inhibitors used in the treatment of Alzheimer�s disease,icopezil; donepezil
+-pidem,Hypnotics/sedatives (zolpidem type),zolpidem; alpidem
+-pirdine,Cognition enhancers,linopirdine; besipirdine; sibopirdine
+-pirox,Antimycotics (pyridone derivatives),ciclopirox
+-pitant,(see -tant),
+-plact,Platelet factor 4 analogs and derivatives,iroplact
+-pladib,Phospholipase A2 inhibitors,ecopladib
+-planin,Antibacterials (Actinoplanes strains),mideplanin; ramoplanin; teicoplanin
+-platin,Antineoplastics (platinum derivatives),cisplatin
+-plasninin,Inhibitors of plasminogen activator inhibitors � type 1,tiplasninin
+-plermin,(see -ermin),
+-plestim,(see -stim),
+-plon,"Non-benzodiazepine anxiolytics, sedatives, hypnotics",ocinaplon; zaleplon
+-poetin,Erythropoietins,epoetin alfa; epoetin beta
+-porfin,Benzoporphyrin derivatives,verteporfin; temoporfin
+-pramine,Antidepressants (imipramine type),lofepramine
+-prazan,"Acid pump inhibitors, not dependent on acid activation",omidaprazan
+-prazole,Antiulcer agents (benzimidazole derivatives),omeprazole; disuprazole
+subgroup:,,
+-maprazole,Antiulcer agents (benzimidazole derivatives); acid pump inhibitors,pumaprazole
+"pred-, -pred-, -pred",Prednisone and prednisolone derivatives,prednicarbate; cloprednol; oxisopred
+-pressin,Vasoconstrictors (vasopressin derivatives),desmopressin
+-pride,Sulpiride derivatives,remoxipride; zacopride
+-pril,Antihypertensives (ACE inhibitors),enalapril; temocapril; spirapril
+-prilat,Antihypertensives (ACE inhibitors) (diacid analogs of the -pril entity),enalaprilat; spiraprilat
+-prinim,"Nootropic agents, purine derivatives",leteprinim
+-prim,Antibacterials (trimethoprim type),ormetoprim
+-prisnil,Selective progesterone receptor modulators (SPRM),asoprisnil
+-pristin,"Antibacterials, pristinamycin derivatives",quinupristin; efepristin
+-pristone,Progesterone receptor antagonists,mifepristone
+-profen,Anti-inflammatory/analgesic agents (ibuprofen type),flurbiprofen
+"-prost-, -prost",Prostaglandin derivatives,rioprostil; dinoprost
+-protafib,Protein tyrosine phosphatase 1B inhibitors,ertiprotafib
+-pultide,(see -tide),
+-proget,Nonsteroidal ligand for the progesterone receptor,tanaproget
+-queside,Cholesterol sequestrants (glycosides),pamaqueside
+-racetam,Nootropes (piracetam type),piracetam
+-racil,Uracil type antineoplastics,eniluracil; gemeracil; oteracil
+-relin,Prehormones or hormone-release stimulating peptides subgroups:,nafarelin
+subgroups:,,
+-morelin,Growth hormone-release stimulating peptides,dumorelin
+-tirelin,Thyrotropin releasing hormone analogues,protirelin
+-relix,Hormone-release inhibiting peptides aldosterone antagonists (spironolactone type),detirelix
+-renone,Aldosterone antagonists (spironolactone type),canrenone
+-restat,(see -stat),
+"-retin-, -retin",Retinol derivatives,etretinate; pelretin
+-rev,Therapeutic virus,
+subgroup:,,
+-tucirev,Therapeutic virus; tumoricidal,lontucirev
+-ribine,Ribofuranil derivatives (pyrazofurin type),loxoribine
+rifa-,Antibiotics (rifamycin derivatives),rifapentine; rifampin
+-rinone,Cardiotonics (amrinone type),milrinone
+-rozole,Aromatase inhibitors (imidazole/triazole derivatives),letrozole; fadrozole; vorozole
+-rsen,Antisense oligonucleotides,alicaforsen
+-rubicin,Antineoplastic antibiotics (daunorubicin type),esorubicin; idarubicin
+"sal-, -sal-, -sal",Anti-inflammatory agents (salicylic acid derivatives),mesalamine; diflunisal; balsalazide
+-sartan,Angiotensin II receptor antagonists,losartan; eprosartan
+-semide,Diuretics (furosemide type),azosemide
+-sermin,(see -ermin),
+-serod,Serotonin receptor antagonists and partial agonists,piboserod
+-serpine,Rauwolfia alkaloid derivatives,reserpine
+-setron,Serotonin 5-HT3 antagonists,ondansetron; granisetron; lurosetron
+-siban,Oxytocin antagonists,barusiban
+-sidomine,Antianginals (sydnone derivatives),pirsidomine; molsidomine; linsidomine
+som-,Growth hormone derivatives,somatrem; somatropin
+subgroups:,,
+som- -bove,Growth hormone derivatives; bovine somatotropin derivatives,sometribove
+som- -por,Growth hormone derivatives; porcine somatotropin derivatives,sometripor; somagrepor
+-sonan,5-HT1B receptor antagonists,elzasonan
+-spirone,Anxiolytics (buspirone type),zalospirone; tiospirone
+-spodar,(see -dar),
+-sporin,Immunosuppressants (cyclosporine type),geclesporin; oxeclosporin
+"-stat-, -stat",Enzyme inhibitors,
+subgroups:,,
+-castat,Enzyme inhibitors; dopamine beta-hydrolase (DBH) inhibitors,nepicastat
+-elestat,Enzyme inhibitors; elastase inhibitors,sivelestat
+-inostat,Enzyme inhibitors; inhibitors of histone deacetylase,dacinostat
+-mastat,Enzyme inhibitors; antineoplastics (matrix metalloproteinase inhibitors),batimastat
+-(a)mostat,Enzyme inhibitors; proteolytic enzyme inhibitors,nafamostat
+"-restat-, -restat",Aldose-reductase inhibitors,ponalrestat; tolrestat
+-vastatin,Antihyperlipidemics (HMG-CoA inhibitors),atorvastatin; lovastatin; pravastatin
+-urestat,Urease inhibitor,benurestat
+-stat-,Renal dehydropeptidase inhibitor,cilastatin
+-stat-,Pepsin inhibitor,pepstatin
+-statin,Renal dehydropeptidase inhibitor pepsin inhibitor,cilastatin; pepstatin
+-ster-,"Steroids (androgens, anabolics)",testosterone
+-steride,Testosterone reductase inhibitors,epristeride; fenasteride
+-stigmine,Cholinesterase inhibitors (physostigmine type),quilostigmine; teserstigmine
+-stim,Colony-stimulating factors,
+subgroups:,,
+-distim,Colony-stimulating factors; conjugates of two different types of colony-stimulating factors,milodistim
+-gramostim,Colony-stimulating factors; granulocyte macrophage colony- stimulating factors (GM-CSF),molgramostim; regramostim; sargramostim; ecogramostim
+-grastim,Colony-stimulating factors; granulocyte colony-stimulating factors (G-CSF),filgrastim; lenograstim
+-mostim,Colony-stimulating factors; macrophage colony-stimulating factors (M-CSF),mirimostim
+-plestim,Colony-stimulating factors; interleukin 3 derivatives; pleiotropic colony-stimulating factors,daniplestim
+-stinel,NMDA receptor antagonists (glycine recognition site),licostinel
+-sulam,"Antineoplastics, apoptosis inducing sulfonamide",indisulam
+sulfa-,Antimicrobials (sulfonamides derivatives),sulfasalazine
+-sulfan,"Antineoplastics, alkylating agents (methanesulfonate derivatives)",busulfan
+-sulind,(see -lind),
+-tant,Tachykinin (neurokinin) receptor antagonists,
+subgroups:,,
+-dutant,Tachykinin (neurokinin) receptor antagonists; NK2 receptor antagonists,saredutant
+-netant,Tachykinin (neurokinin) receptor antagonists; NK3 receptor antagonists,osanetant
+-pitant,Tachykinin (neurokinin) receptor antagonists; NK1 receptor antagonists,dapitant; zinapitant; lanepitant
+-tapide,Microsomal triglyceride transfer protein (MTP) inhibitors,implitapide
+-taxel,"Antineoplastics, taxane derivatives",paclitaxel
+-tecan,Antineoplastics (camptothecine derivatives),topotecan; irinotecan
+-tecarin,Antineoplastics (rebeccamycin derivatives),becatecarin
+-tepa,Antineoplastics (thiotepa derivatives),azetepa
+-teplase,(see -ase),
+-termin,(see -ermin),
+-terol,Bronchodilators (phenethylamine derivatives),albuterol
+-tesind,Thymidilate synthetase inhibitors (benzindole derivatives),metesind
+-texafin,Texaphryn derivatives,motexafin
+-thiazide,Diuretics (thiazide derivatives),chlorothiazide
+-tiapine,Antipsychotics (dibenzothiazepine derivatives),quitiapine
+-tiazem,Calcium channel blockers (diltiazem type),diltiazem; clentiazem; iprotiazem
+-tibant,Antiasthmatics (bradykinin antagonists),icatibant
+-tide,Peptides and glycopeptides,octreotide
+subgroups:,,
+-fibatide,Peptides and glycopeptides; platelet aggregation inhibitors (glycoprotein IIb/IIIa receptor antagonists),eptifibatide
+-pultide,Peptides and glycopeptides; peptides used as pulmonary surfactants,sinapultide
+-tidine,H2-receptor antagonists (cimetidine type),lupitidine; ranitidine; donetidine
+-tinib,Tyrosine kinase inhibitors,canertinib; imatinib; mubritinib
+-tirelin,(see -relin),
+-tirome,"Antihyperlidaemic, thyromimetic derivatives",anitirome; axitirome
+-tocin,Oxytocin derivatives,oxytocin
+-toclax,"Antineoplastic, BCL-2 inhibitor",obatoclax
+-toin,Antiepileptics (hydantoin derivatives),albutoin
+-toran,TLR4 receptor antagonists,eritoran
+-tox(a)-,Toxins,urtoxazumab
+-traposin,AP2 inhibitors,seltraposin
+-trexate,Antimetabolites (folic acid derivatives),methotrexate
+-trexed,Antineoplastic thymidylate synthetase inhibitors,pemetrexed; ralitrexed; nolatrexed
+-tricin,Antibiotics (polyene derivatives),mepartricin
+"-tril, -trilat",Endopeptidase inhibitors,candoxatril; candoxatrilat
+-triptan,Antimigraine agents (5-HT1 receptor agonists),naratriptan; oxitriptan; sumatriptan
+-triptyline,"Antidepressants (dibenzo[a,d]cycloheptane derivatives)",amitriptyline
+-troban,Antithrombotics (thromboxane A2 receptor antagonists),daltroban; sulotroban
+-trodast,(see -ast),
+-troline,Antipsychotics (dopamine D2 antagonists),carvotroline; gevotroline
+-trombopag,Thrombopoetin agonists,eltrombopag
+"trop-, -trop-",Atropine derivatives,benztropine
+-uclin,Mucosal tolerance inhibitors,
+-uplase,(see -ase),
+-uracil,Uracil derivatives used as thyroid antagonists and as antineoplastics,fluorouracil
+-uridine,Antivirals; antineoplastics (uridine derivatives),idoxuridine
+-vaptan,Vasopressin receptor antagonists,conivaptan; relcovaptan
+-vastatin,(see -stat),
+-verine,Spasmolytic agents (papaverine type),mebeverine
+"vin-, -vin-",Vinca alkaloids,vinepidine; apovincamine
+"vir-, -vir-, -vir",Antiviral substances (undefined group),ganciclovir; enviradine; viroxime; alvircept; delavirdine
+subgroups:,,
+-amivir,Antiviral substances; neuraminidase inhibitors,zanamivir
+-cavir,Antiviral substances; carbocyclic nucleosides,lobucavir
+-cyclovir,Antiviral substances; (acyclovir type),acyclovir
+-ciclovir,Antiviral substances; (acyclovir type),desciclovir; famciclovir; penciclovir
+-gosivir,Antiviral substances; glucosidase inhibitor,celgosivir
+-navir,Antiviral substances; HIV protease inhibitors (saquinavir type),droxinavir; indinavir; ritonavir
+-virdine,Antiviral substances; (non-nucleoside reverse transcriptase inhibitors; pyridine derivatives),atevirdine; delevirdine
+-virenz,Antivirals (non-nucleoside reverse transcriptase inhibitors; benzoxazinone derivatives),efavirenz
+-virsen,Antivirals (antisense),afovirsen; fomivirsen; trecovirsen
+-vircept,(see -cept),
+-virdine,(see -vir),
+-virenz,(see -vir),
+-virimat,"Antiviral, disrupts viral maturation",bevirimat
+-viroc,CCR5 antagonists,maraviroc
+subgroup:,,
+-criviroc,"CCR5 antagonists, immunomodulators",ancriviroc
+-vudine,Antineoplastics; antivirals (zidovudine group) (exception: edoxudine),stavudine; lamivudine; alovudine
+-xaban,Anticoagulant (Factor Xa inhibitor),tamixaban
+-xanox,Antiallergic respiratory tract drugs (xanoxic acid derivatives),tixanox
+-(x)antrone,"Antineoplastics, mitoxantrone derivatives aza-anthracenedione class of antitumor agents",pixantrone
+-zolamide,Carbonic anhydrase inhibitors,brinzolamide; dorzolamide; sezolamide
+-zolast,(see -ast),
+-zomib,Proteozome inhibitors,bortezomib
+-zotan,5-HT1A receptor agonists/antagonists acting primarily as neuroprotectors,robalzotan; sarizotan; ibalzotan; lecozotan
