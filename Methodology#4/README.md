@@ -1,8 +1,5 @@
 
-Drug Target Interaction will take more than 60 mins  
-Drugs re-purposing methods during early stages of pandemic using COVID-19 as example
-Important Instructions
-Setup DeepPurpose Tool Kit, Working directory, copy files, execute scripts
+Methodology#4 - Drug repurposing using drug protein interaction and Binding Affinity using deeppurpose Toolkit<br>
 
 1) Follow the installation instruction of DeepPurpose tool kit from https://github.com/kexinhuang12345/DeepPurpose <br>
 2) After the installation of the tool kit, navigate to the base directory called DeepPurpose from the installed location <br>
@@ -14,6 +11,6 @@ Setup DeepPurpose Tool Kit, Working directory, copy files, execute scripts
 8) Copy the dataset.py file into deeppurpose/dataset directory <br>
 9) Copy the models.py file into deeppurpose/dataset directory <br>
 10) Copy the oneliner.py file into deeppurpose/dataset directory <br>
-11) Copy this ipython (ipynb) notebook into your home/working directory <br>
-12) Ensure that all above files and this ipython notebook (ipynb) are in the home/working directory <br>
-13) Execute below scripts by sequence order </font> <br>
+11) Copy the "Drug_repurposing_using_drug_protein_interaction_and_Binding Affinity_using_deeppurpose_methodology4-v1.ipynb" ipython (ipynb) notebook into your home/working directory <br>
+12) Ensure that all above files and this ipython notebook (ipynb) are in the correct directory <br>
+13) Execute ipython notebook scripts by sequence order <br>
