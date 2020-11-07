@@ -19,4 +19,4 @@ Important Instructions to setup Working directory, sub-directory, copy files, do
     chrome browser <br>
 14) Ensure that the ipython notebook "Drugs re-purposing during early stages of pandemic COVID-19_HariharanMS_V4 Method1 and Method2 and Method3-v3.ipynb" (ipynb) is in the home/working directory <br>
 15) Execute the ipython notebook scripts by sequence order <br>
-16) For executing ipython notebook for methodology#4, please navigate to Methodology#4 folder of this repository and follow the README instructions for Methodology#4 <br>
+16) For executing ipython notebook for methodology#4, please navigate to "deep purpose_related" folder of this repository and follow the README instructions for Methodology#4 <br>
